@@ -1,7 +1,7 @@
 ### Solution:
-1. Открываем Google Chrome и переходим в режим инкогнито
-2. Переходим на сайт [https://codeforces.com/](https://codeforces.com/).
-3. Окрываем веб-инспектор браузера Google Chrome (`Ctrl + Shift + I`).
+1. Открываем Google Chrome и переходим в режим инкогнито;
+2. Переходим на сайт [https://codeforces.com/](https://codeforces.com/);
+3. Окрываем веб-инспектор браузера Google Chrome (`Ctrl + Shift + I`);
 4. Переходим во вкладку `Network`:
 
 ![](./images/net.png)
